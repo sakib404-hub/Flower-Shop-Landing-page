@@ -235,3 +235,21 @@ body{
     border: none;
     border-radius: 10px;
 }
+/* footer  */
+footer{
+    min-height: 300px;
+    width: 100%;
+    background-color: #111010;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+}
+footer h3{
+    font-size: 48px;
+}
+.ft{
+    color: rgba(146, 139, 139, 0.699);
+}
